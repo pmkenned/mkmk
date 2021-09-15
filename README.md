@@ -1,0 +1,2 @@
+# mkmk
+Make a Makefile
